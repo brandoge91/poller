@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "loggis": "^2.0.0",
+    "noblox.js": "^4.13.1",
+    "roblox-long-polling": "^2.0.4"
+  },
+  "name": "poller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
